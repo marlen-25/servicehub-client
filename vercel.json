@@ -1,0 +1,10 @@
+﻿{
+  "buildCommand": "npx vite build",
+  "installCommand": "npm install",
+  "framework": "vite",
+  "build": {
+    "env": {
+      "NODE_VERSION": "18"
+    }
+  }
+}
